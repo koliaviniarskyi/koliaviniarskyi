@@ -1,4 +1,4 @@
-## Hi, 👋 I`m Mykola Viniarskyi  
+## Hello, 👋 I`m Mykola Viniarskyi  
 <div align="center">
   <a href="https://github.com/koliaviniarskyi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koliaviniarskyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
