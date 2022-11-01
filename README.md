@@ -9,7 +9,7 @@
   <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="My-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Mykola-pic" height="150" style="border-radius:50px;" src="138611348_3910135365717945_5120246557980019463_n.jpg">
+  <img align="right" alt="Mykola-pic" height="160" style="border-radius:50px;" src="138611348_3910135365717945_5120246557980019463_n.jpg">
 </div>
   
   ##
